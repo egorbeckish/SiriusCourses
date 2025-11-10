@@ -42,4 +42,4 @@ $$ 1 - 3 + 3 - 1 = (-1)^n C_{n}^n = 0$$
 
 <img width="727" height="130" alt="image" src="https://github.com/user-attachments/assets/bfeb44c6-7df0-467e-baa4-319986a781a4" />
 
-$$ 1 + 9 + 9 + 1 = C_{n}^{2n} = \frac{6!}{3!3!} = 20$$
+$$ 1 + 9 + 9 + 1 = C_{2n}^{n} = \frac{6!}{3!3!} = 20$$
