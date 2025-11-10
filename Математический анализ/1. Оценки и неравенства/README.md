@@ -1,6 +1,6 @@
 ## Бином Ньютона
 
-$$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где \space C_n^k = \frac{n!}{k!(n-k)!} — биномиальные \space коэффициенты$$
+$$(a + b)^n = \sum_{k=0}^{n} C_n^k \dot a^{n-k} \cdot b^k\,\space где \space C_n^k = \frac{n!}{k!(n-k)!} — биномиальные \space коэффициенты$$
 
 # Задание №1
 
@@ -88,4 +88,12 @@ $$ \frac{n^2}{2}\epsilon^2 + \frac{n}{2}\epsilon^2 + n\epsilon - 1000n + 1 > 0 $
 
 $$ 1,001^n > 1000,\space n > 10^6 \sim n >> 0$$
 
-$$ P(x) = a_kx^k + a_{k-1}x^{k-1} + \cdots + a_1x + a_0, \space, a_k > 0$$
+$$ P(x) = a_kx^k + a_{k-1}x^{k-1} + \dots + a_1x + a_0, \space a_k > 0$$
+
+$$ a_kx^k + a_{k-1}x^{k-1} + \dots + a_1x + a_0 > 0, \space x >> 0$$
+
+$$ a_kx^k > -a_{k-1}x^{k-1} - \dots + a_1x - a_0$$
+
+$$ x^k > b_{k-1}x^{k-1} - \cdots + b_1x - b_0$$
+
+$$ b_{k-1}x^{k-1} - \cdots + b_1x - b_0 < |b_{k-1}|x^{k-1} - \dots + |b_1|x - |b_0| $$
