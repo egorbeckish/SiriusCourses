@@ -43,3 +43,9 @@ $$ 1 - 3 + 3 - 1 = (-1)^n C_{n}^n = 0$$
 <img width="727" height="130" alt="image" src="https://github.com/user-attachments/assets/bfeb44c6-7df0-467e-baa4-319986a781a4" />
 
 $$ 1 + 9 + 9 + 1 = C_{2n}^{n} = \frac{6!}{3!3!} = 20$$
+
+$$(1 + x)^n >= 1 + nx$$
+
+# Задание №6
+
+<img width="888" height="529" alt="image" src="https://github.com/user-attachments/assets/ca48bad0-eb43-471d-9754-2d9589d706f1" />
