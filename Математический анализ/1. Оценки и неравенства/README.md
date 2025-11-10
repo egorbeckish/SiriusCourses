@@ -1,3 +1,5 @@
+## Бином Ньютона
+
 $$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где \space C_n^k = \frac{n!}{k!(n-k)!} — биномиальные \space коэффициенты$$
 
 # Задание №1
@@ -44,6 +46,8 @@ $$ 1 - 3 + 3 - 1 = (-1)^n C_{n}^n = 0$$
 
 $$ 1 + 9 + 9 + 1 = C_{2n}^{n} = \frac{6!}{3!3!} = 20$$
 
+## Неравенство Бернулли
+
 $$(1 + x)^n \geq 1 + nx$$
 
 # Задание №6
@@ -79,3 +83,9 @@ $$ (1 + x)^{k + 1} > 1 + (k + 1)x + kx^2 > 1 + (k + 1)x $$
 $$ (1 + \epsilon)^n = 1 + n\epsilon + C_n^{2}\epsilon^2 + \cdots + C_{n}^{n}\epsilon^n \geq 1 + n\epsilon + \frac{n(n - 1)}{2}\epsilon^2 > 1000n$$
 
 $$ \frac{n^2}{2}\epsilon^2 + \frac{n}{2}\epsilon^2 + n\epsilon - 1000n + 1 > 0 $$
+
+## Значение многочлена при больших x
+
+$$ 1,001^n > 1000$$, $$ n > 10^6 \sim n >> 0$$
+
+$$ P(x) = a_kx^k + a_{k-1}x^{k-1} + \cdots + a_1x + a_0$$, $$ a_k > 0$$
