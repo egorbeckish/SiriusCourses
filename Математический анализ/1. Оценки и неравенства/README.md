@@ -23,3 +23,17 @@ $$C_{13}^6 = \frac{13!}{6!(13-6)!} = \frac{13!}{6!7!} = 1716$$
 <img width="873" height="103" alt="image" src="https://github.com/user-attachments/assets/2fd78f94-d890-48c0-a1da-752a8ddc8c3a" />
 
 4
+
+# Задание №4
+
+<img width="600" height="154" alt="image" src="https://github.com/user-attachments/assets/ff627dd8-77a3-4f74-8c02-97a5d5e3b54d" />
+
+n = 3
+
+$$C_{3}^0 = C_{3}^3 = 1$$
+
+$$C_{3}^1 = C_{3}^2 = \frac{3!}{2!1!} = 3$$
+
+$$ 1 + 3 + 3 + 1 = 8 = 2^n$$
+
+$$ 1 - 3 + 3 - 1 = (-1)^n C_{n}^n = 0$$
