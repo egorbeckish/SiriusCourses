@@ -107,3 +107,17 @@ $$ |b_{k-1}|x^{k-1} + \dots + |b_1|x^{k-1} + |b_0|x^{k-1} = x^{k - 1}(|b_{k-1}| 
 $$ x^{k - 1}(|b_{k-1}| + \dots + |b_1| + |b_0|) < x^k$$
 
 $$ (|b_{k-1}| + \dots + |b_1| + |b_0|) < x$$
+
+## Задание 9
+
+<img width="923" height="516" alt="image" src="https://github.com/user-attachments/assets/3d8addee-d95f-4fd7-b402-084df314c4a4" />
+
+## Задание 10
+
+<img width="921" height="580" alt="image" src="https://github.com/user-attachments/assets/e4e90bf3-a6fd-41f7-9897-d17b56f0da7f" />
+
+## Задание 11
+
+<img width="908" height="690" alt="image" src="https://github.com/user-attachments/assets/69c6f3e8-6f77-4f02-9f6b-cc2e32fe44cb" />
+
+
