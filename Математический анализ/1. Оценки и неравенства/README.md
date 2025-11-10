@@ -16,4 +16,4 @@ $$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где \space
 
 <img width="519" height="66" alt="image" src="https://github.com/user-attachments/assets/490ced67-0717-4a5f-a469-d32ebbdf5234" />
 
-$$C_13^6 = \frac{13!}{6!(13-6)!} = \frac{13!}{6!7!} = 1716$$
+$$C_{13}^6 = \frac{13!}{6!(13-6)!} = \frac{13!}{6!7!} = 1716$$
