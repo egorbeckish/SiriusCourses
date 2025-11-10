@@ -8,7 +8,7 @@ $$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где \space
 
 # Задание №2
 
-<img width="731" height="166" alt="image" src="https://github.com/user-attachments/assets/3da4fff7-73b8-4afb-bb26-05467688d41e" />
+<img width="742" height="69" alt="image" src="https://github.com/user-attachments/assets/05dc029b-8813-4a88-a85b-6bce1194859c" />
 
 <img width="514" height="55" alt="image" src="https://github.com/user-attachments/assets/eda29801-fa7b-43bb-8c69-f8e3543604c1" />
 
@@ -16,4 +16,4 @@ $$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где \space
 
 <img width="519" height="66" alt="image" src="https://github.com/user-attachments/assets/490ced67-0717-4a5f-a469-d32ebbdf5234" />
 
-$$C_13^6 = \frac{13!}{6!(13-6)!} = \frac{13!}{6!7!} = 1716$4
+$$C_13^6 = \frac{13!}{6!(13-6)!} = \frac{13!}{6!7!} = 1716$$
