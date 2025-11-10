@@ -1,4 +1,4 @@
-$$\[(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\], где \(C_n^k = \frac{n!}{k!(n-k)!}\) — биномиальные коэффициенты$$
+$$(a + b)^n = \sum_{k=0}^{n} C_n^k \cdot a^{n-k} \cdot b^k\,\space где C_n^k = \frac{n!}{k!(n-k)!} — биномиальные\spaceкоэффициенты$$
 
 <img width="885" height="82" alt="image" src="https://github.com/user-attachments/assets/d53661ee-10af-4cbf-803f-45ad59a2796a" />
 
