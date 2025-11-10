@@ -86,6 +86,6 @@ $$ \frac{n^2}{2}\epsilon^2 + \frac{n}{2}\epsilon^2 + n\epsilon - 1000n + 1 > 0 $
 
 ## Значение многочлена при больших x
 
-$$ 1,001^n > 1000$$, $$ n > 10^6 \sim n >> 0$$
+$$ 1,001^n > 1000,\space n > 10^6 \sim n >> 0$$
 
-$$ P(x) = a_kx^k + a_{k-1}x^{k-1} + \cdots + a_1x + a_0$$, $$ a_k > 0$$
+$$ P(x) = a_kx^k + a_{k-1}x^{k-1} + \cdots + a_1x + a_0, \space, a_k > 0$$
