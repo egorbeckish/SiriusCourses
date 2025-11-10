@@ -78,4 +78,4 @@ $$ (1 + x)^{k + 1} > 1 + (k + 1)x + kx^2 > 1 + (k + 1)x $$
 
 $$ (1 + \epsilon)^n = 1 + n\epsilon + C_n^{2}\epsilon^2 + \cdots + C_{n}^{n}\epsilon^n \geq 1 + n\epsilon + \frac{n(n - 1)}{2}\epsilon^2 > 1000n$$
 
-$$ \frac{n^2}{2}\epsilon^2 + \frac{n}{2}epsilon^2 + n\epsilon - 1000n + 1 > 0 $$
+$$ \frac{n^2}{2}\epsilon^2 + \frac{n}{2}\epsilon^2 + n\epsilon - 1000n + 1 > 0 $$
