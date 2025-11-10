@@ -76,4 +76,4 @@ $$ (1 + x)^{k + 1} > 1 + (k + 1)x + kx^2 > 1 + (k + 1)x $$
 
 <img width="650" height="105" alt="image" src="https://github.com/user-attachments/assets/b373205e-6f99-443a-b214-84571185e42a" />
 
-(1 + \epsilon)^n = 1 + n\epsilon + Cn{3}^2\epsilon^2 + \cdots + C_{n}^{n}\epsilon^n
+$$ (1 + \epsilon)^n = 1 + n\epsilon + Cn{3}^2\epsilon^2 + \cdots + C_{n}^{n}\epsilon^n $$
