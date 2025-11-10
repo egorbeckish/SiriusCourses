@@ -49,3 +49,23 @@ $$(1 + x)^n >= 1 + nx$$
 # Задание №6
 
 <img width="888" height="529" alt="image" src="https://github.com/user-attachments/assets/ca48bad0-eb43-471d-9754-2d9589d706f1" />
+
+# Задание №7
+
+<img width="881" height="94" alt="image" src="https://github.com/user-attachments/assets/97cf9fe4-d654-489c-9c39-183d8b21a275" />
+
+$$ n = 1$$
+
+$$ 1 + x >= 1 + x $$
+
+$$ n = 2$$
+
+$$ (1 + x)^2 >= 1 + 2x $$
+
+$$ 1 + 2x + x^2 >= 1 + 2x $$
+
+$$ n = k + 1$$
+
+$$ (1 + x)^(k + 1) > (1 + x)(1 + kx) > 1 + (k + 1)x $$
+
+$$ (1 + x)^(k + 1) > 1 + x + xk + kx^2 > 1 + (k + 1)x $$
